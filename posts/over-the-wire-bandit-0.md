@@ -2,7 +2,7 @@
 title: 'overthewire wargames bandit 0'
 date: 'Feb 2, 2022'
 excerpt: 'overthewire wargames are interactive command line challenges which are used to teach cybersecurity concepts. The Bandit wargame is aimed for absolute beginners'
-cover_image: '/images/posts/img3.jpg'
+cover_image: '/images/posts/otw (2).jpg'
 ---
 
 Hi people :) , I'm Anish.
